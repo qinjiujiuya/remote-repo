@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/test_qin/warehouse/remote-repo",
+            "binaryPath": "/home/test_qin/warehouse/remote-repo/hello",
+            "binaryArgs": []
+        }
+    ]
+}
